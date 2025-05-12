@@ -1,2 +1,2 @@
 console.log("Test for Git Version Control");
-console.log("Hello Wrold!");
+console.log("Hello World in js!");
